@@ -1,5 +1,10 @@
 # CovidProject
 
+Utilized R to create visualizations of COVID-19 data on the global, US, and state level.
+
+
+
+
 **US Confirmed Cases**
 ![image](https://github.com/user-attachments/assets/578588ed-3563-45b7-be0e-78dccb29db28)
 
